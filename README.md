@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Gauransh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20BCA%20(AI%2FML)&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:24243e,100:0f0c29&height=220&section=header&text=Gauransh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Data+Analyst+%7C+AI%2FML+Engineer+%F0%9F%9A%80;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%F0%9F%93%8A;TensorFlow+%C2%B7+PyTorch+%C2%B7+OpenCV+%C2%B7+Git+%F0%9F%A4%96;Smart+India+Hackathon+%E2%80%94+Top+11+%F0%9F%8F%86;National+Finalist+%E2%80%94+Code+Astra+IEEE+2025+%F0%9F%A5%87;Turning+raw+data+into+real+insights+%E2%9C%A8)](https://git.io/typing-svg)
