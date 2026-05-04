@@ -65,7 +65,7 @@ garv = {
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="42" title="Power BI" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="42" title="Tableau" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" height="42" title="Excel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="42" title="Excel" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -120,8 +120,13 @@ garv = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge&logoColor=white)](https://gauranshsinghbarca.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauransh-singh-211586294)
+<a href="https://gauranshsinghbarca.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+  
+  <a href="https://linkedin.com/in/gauransh-singh-211586294" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
 </div>
 
