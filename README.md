@@ -83,16 +83,11 @@ garv = {
 ---
 
 ## 📊 GitHub Stats
-
-<!-- ROW 1: Stats card + Top Languages -->
+<!-- ROW 3: Contribution Activity Graph -->
 <div align="center">
 
 <a href="https://github.com/gauransh-singh">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauransh-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&rank_icon=github&hide=contribs" height="170"/>
-</a>
-&nbsp;
-<a href="https://github.com/gauransh-singh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauransh-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12&langs_count=6" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauransh-singh&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area_color=302b63&area=true&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
 </a>
 
 </div>
@@ -103,24 +98,6 @@ garv = {
 <a href="https://github.com/gauransh-singh">
   <img src="https://komarev.com/ghpvc/?username=gauransh-singh&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/gauransh-singh?tab=followers">
-  <img src="https://img.shields.io/github/followers/gauransh-singh?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=302b63&labelColor=0d1117" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/gauransh-singh">
-  <img src="https://img.shields.io/github/stars/gauransh-singh?style=for-the-badge&logo=github&logoColor=white&label=TOTAL+STARS&color=302b63&labelColor=0d1117" />
-</a>
-
-</div>
-
-<!-- ROW 3: Contribution Activity Graph -->
-<div align="center">
-
-<a href="https://github.com/gauransh-singh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauransh-singh&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area_color=302b63&area=true&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
-</a>
-
 </div>
 
 ---
@@ -143,7 +120,7 @@ garv = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge&logoColor=white)](https://gauransh-singh.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-302b63?style=for-the-badge&logoColor=white)](https://gauranshsinghbarca.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauransh-singh-211586294)
 
 </div>
