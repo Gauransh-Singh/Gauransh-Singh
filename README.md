@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Data+Analyst+%7C+AI%2FML+Engineer+%F0%9F%9A%80;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%F0%9F%93%8A;TensorFlow+%C2%B7+PyTorch+%C2%B7+OpenCV+%C2%B7+Git+%F0%9F%A4%96;Smart+India+Hackathon+%E2%80%94+Top+11+%F0%9F%8F%86;National+Finalist+%E2%80%94+Code+Astra+IEEE+2025+%F0%9F%A5%87;Turning+raw+data+into+real+insights+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- BADGES -->
-![Location](https://img.shields.io/badge/📍_Greater_Noida,_India-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e)
+![Location](https://img.shields.io/badge/📍_Mohali,_India-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e)
 ![SIH](https://img.shields.io/badge/🏆_SIH_Top_11_in_University-gold?style=for-the-badge&labelColor=302b63&color=24243e)
 ![IEEE](https://img.shields.io/badge/🥇_Code_Astra_IEEE_2025-silver?style=for-the-badge&labelColor=302b63&color=24243e)
 
@@ -20,7 +20,7 @@
 ```python
 garv = {
     "name"         : "Gauransh Singh",
-    "education"    : "BCA (AI/ML) — Galgotias University",
+    "education"    : "MCA (Data Science) — Chandigarh University",
     "location"     : "Greater Noida, India 🇮🇳",
     "focus"        : ["Data Analytics", "Machine Learning", "Computer Vision", "BI Dashboards"],
     "achievements" : ["🏆 Smart India Hackathon — Top 11 in University", "🥇 Code Astra IEEE Summit 2025"],
