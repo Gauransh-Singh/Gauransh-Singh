@@ -21,7 +21,7 @@
 garv = {
     "name"         : "Gauransh Singh",
     "education"    : "MCA (Data Science) — Chandigarh University",
-    "location"     : "Greater Noida, India 🇮🇳",
+    "location"     : "Mohali, India 🇮🇳",
     "focus"        : ["Data Analytics", "Machine Learning", "Computer Vision", "BI Dashboards"],
     "achievements" : ["🏆 Smart India Hackathon — Top 11 in University", "🥇 Code Astra IEEE Summit 2025"],
     "goal"         : "Data & AI roles in Europe 🇩🇪🇳🇱",
