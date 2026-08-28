@@ -90,7 +90,7 @@ garv = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauransh-singh&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area_color=302b63&area=true&hide_border=true&border_radius=12&custom_title=Contribution%20Graph" width="95%"/>
 </a>
 
-</div> is this right
+</div>
 
 <!-- ROW 2: Profile Views card -->
 <div align="center">
