@@ -90,17 +90,23 @@ garv = {
 
 ---
 
-## 📊 GitHub Stats
 <!-- ROW 3: Contribution Activity Graph -->
-<div align="center">
-  <a href="https://github.com/gauransh-singh">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gauransh-singh&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area_color=302b63&area=true&hide_border=true&radius=12&custom_title=Contribution%20Graph"
-      width="95%"
-      alt="Contribution Graph"
-    />
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Gauransh-Singh">
+    <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gauransh-Singh&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Gauransh-Singh's GitHub Stats" />
   </a>
-</div>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Gauransh-Singh&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Gauransh-Singh's GitHub Streak" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/A78BFA/Gauransh-Singh" alt="Gauransh-Singh's Total Contributions" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Gauransh-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
 
 <!-- ROW 2: Profile Views card -->
 <div align="center">
