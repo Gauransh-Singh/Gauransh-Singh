@@ -18,7 +18,7 @@
 
 ## 🧬 About Me
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="350" height="270"  align="right" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="380" height="270"  align="right" />
 
 <pre>
 garv = {
