@@ -4,12 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:004D98&height=220&section=header&text=Gauransh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Data+Analyst+%7C+AI%2FML+Engineer+%F0%9F%9A%80;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%F0%9F%93%8A;TensorFlow+%C2%B7+PyTorch+%C2%B7+OpenCV+%C2%B7+Git+%F0%9F%A4%96;Smart+India+Hackathon+%E2%80%94+Top+11+%F0%9F%8F%86;National+Finalist+%E2%80%94+Code+Astra+IEEE+2025+%F0%9F%A5%87;Turning+raw+data+into+real+insights+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Data+Analyst+%7C+AI%2FML+Engineer+%F0%9F%9A%80;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau+%F0%9F%93%8A;TensorFlow+%C2%B7+PyTorch+%C2%B7+OpenCV+%C2%B7+Git+%F0%9F%A4%96;Smart+India+Hackathon+%E2%80%94+Top+11+%F0%9F%8F%86;National+Finalist+%E2%80%94+Code+Astra+IEEE+2025+%F0%9F%A5%87;SAP+Hackfest+26+%E2%80%94+North+Regional+Finalist+%F0%9F%9A%80;Turning+raw+data+into+real+insights+%E2%9C%A8)](https://git.io/typing-svg)
 
 <!-- BADGES -->
 ![Location](https://img.shields.io/badge/📍_Mohali,_India-0f0c29?style=for-the-badge&labelColor=302b63&color=24243e)
-![SIH](https://img.shields.io/badge/🏆_SIH_Top_11_in_University-gold?style=for-the-badge&labelColor=302b63&color=24243e)
+![SIH](https://img.shields.io/badge/🏆_SIH_Top_11-gold?style=for-the-badge&labelColor=302b63&color=24243e)
 ![IEEE](https://img.shields.io/badge/🥇_Code_Astra_IEEE_2025-silver?style=for-the-badge&labelColor=302b63&color=24243e)
+![SAP](https://img.shields.io/badge/🚀_SAP_Hackfest_26_Regional_Finalist-A78BFA?style=for-the-badge&labelColor=302b63&color=24243e)
 
 </div>
 
@@ -27,8 +28,9 @@ garv = {
     "focus"        : ["Data Analytics", "Machine Learning", 
                     "Computer Vision", "BI Dashboards"],
     "achievements" : [
-        "🏆 Smart India Hackathon — Top 11 in University",
-        "🥇 Code Astra IEEE Summit 2025"
+        "🏆 Smart India Hackathon — Top 11",
+        "🥇 Code Astra IEEE Summit 2025",
+        "🚀 SAP Hackfest 26 — North Regional Finalist"
     ],
     "goal"         : "Data & AI roles in Europe 🇩🇪🇳🇱",
     "quote"        : "Be The Hero of Your own Story.",
@@ -39,6 +41,17 @@ garv = {
 <br clear="right"/>
 
 ---
+
+## 📜 Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deloitte_(Forage)-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
+</p>
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -146,7 +159,6 @@ garv = {
 
 </div>
 
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D98,50:A50044,100:004D98&height=150&section=footer" width="100%"/>
