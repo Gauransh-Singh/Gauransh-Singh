@@ -17,14 +17,15 @@
 
 ## 🧬 About Me
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="200" align="right" />
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="450" height="308" align="right" />
 
-```python
+<pre>
 garv = {
     "name"         : "Gauransh Singh",
     "education"    : "MCA (Data Science) — Chandigarh University",
     "location"     : "Mohali, India 🇮🇳",
-    "focus"        : ["Data Analytics", "Machine Learning", "Computer Vision", "BI Dashboards"],
+    "focus"        : ["Data Analytics", "Machine Learning", 
+                    "Computer Vision", "BI Dashboards"],
     "achievements" : [
         "🏆 Smart India Hackathon — Top 11 in University",
         "🥇 Code Astra IEEE Summit 2025"
@@ -33,7 +34,9 @@ garv = {
     "quote"        : "Be The Hero of Your own Story.",
 }
 # Always learning. Always building. ✨
-```
+</pre>
+
+<br clear="right"/>
 
 ---
 
