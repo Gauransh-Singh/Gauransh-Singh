@@ -17,9 +17,7 @@
 
 ## 🧬 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="200" align="right" />
 
 ```python
 garv = {
@@ -27,19 +25,14 @@ garv = {
     "education"    : "MCA (Data Science) — Chandigarh University",
     "location"     : "Mohali, India 🇮🇳",
     "focus"        : ["Data Analytics", "Machine Learning", "Computer Vision", "BI Dashboards"],
-    "achievements" : ["🏆 Smart India Hackathon — Top 11 in University", "🥇 Code Astra IEEE Summit 2025"],
+    "achievements" : [
+        "🏆 Smart India Hackathon — Top 11 in University",
+        "🥇 Code Astra IEEE Summit 2025"
+    ],
     "goal"         : "Data & AI roles in Europe 🇩🇪🇳🇱",
     "quote"        : "Be The Hero of Your own Story.",
 }
 # Always learning. Always building. ✨
-```
-
-</td>
-<td width="40%">
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
-</td>
-</tr>
-</table>
 ```
 
 ---
